@@ -1,6 +1,6 @@
 
 # [Chat Log](https://claude.ai/share/a4dfd9e3-6414-4ca6-b8e4-4e8d2354ccfd)
-# [Artifact](https://claude.ai/public/artifacts/0e7348dc-d409-4028-86b3-c15703aee486)
+# [Interactive Artifact](https://claude.ai/public/artifacts/0e7348dc-d409-4028-86b3-c15703aee486)
 <img width="1917" height="1194" alt="image" src="https://github.com/user-attachments/assets/24851a27-8196-47a2-a0ba-cb0b0accbd0d" />
 
 
