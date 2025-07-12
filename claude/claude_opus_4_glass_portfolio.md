@@ -4,7 +4,9 @@
 <img width="1917" height="1194" alt="image" src="https://github.com/user-attachments/assets/24851a27-8196-47a2-a0ba-cb0b0accbd0d" />
 
 
-# Prompt: Create a visually stunning interactive personal portfolio website using glassmorphism and neon gradients.
+# Prompt: 
+
+## Create a visually stunning interactive personal portfolio website using glassmorphism and neon gradients.
 
 # Claude: 
 I'll create a visually stunning portfolio website with glassmorphism effects and neon gradients. This will feature smooth animations, interactive elements, and a modern, eye-catching design.
