@@ -2,7 +2,9 @@
 # [Interactive Artifact](https://claude.ai/public/artifacts/9878b342-4a64-4106-a826-9c5bfed43440)
 <img width="1910" height="1154" alt="image" src="https://github.com/user-attachments/assets/80206653-9aa6-41ef-b471-8b126c97145f" />
 
-# Prompt: Create a visually stunning interactive personal portfolio website using glassmorphism and neon gradients.
+# Prompt: 
+
+## Create a visually stunning interactive personal portfolio website using glassmorphism and neon gradients.
 
 # Claude: 
 I'll create a visually stunning interactive portfolio website with glassmorphism effects and vibrant neon gradients. This will feature smooth animations, interactive elements, and a modern design that feels premium and engaging.
