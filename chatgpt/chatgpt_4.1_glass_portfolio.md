@@ -1,5 +1,7 @@
 # [Chat Log](https://chatgpt.com/share/6872c939-55c8-8004-a6e5-e321eeaf555f)
 
+<img width="1908" height="1143" alt="image" src="https://github.com/user-attachments/assets/36e0d0a9-22f5-48c7-8906-da2b48a49e0a" />
+
 # Prompt: 
 
 # Create a visually stunning interactive personal portfolio website using glassmorphism and neon gradients.
